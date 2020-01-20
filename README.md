@@ -197,11 +197,10 @@ Lo primero que debe hacer es establecer una cuenta para recibir las recompensar 
 miner.setEtherbase(eth.accounts[0])
 ```
 
-
 Luego inicia el minero.
 
 ```
 miner.start()
 ```
 
-Si ahora observamos el balance de las cuentas, se observará que ha cambiado.
+Si ahora ejecutamos el comando para consultar el balance de las cuentas, se observa que el valor a cambiado.
